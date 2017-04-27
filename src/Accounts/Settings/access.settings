@@ -1,0 +1,5 @@
+{
+ postmaster = (Master);
+ testuser = (Master);
+ testuser2 = (Master);
+}

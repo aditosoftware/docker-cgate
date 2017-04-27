@@ -1,0 +1,12 @@
+{
+ "#Created" = "20-04-2017_13:48:37";
+ "#IncomingFlow" = 1-20170425122526;
+ "#LastAddress" = "[192.168.99.1]";
+ "#LastLogin" = #T25-04-2017_12:49:09;
+ "#MailboxSeq" = #1493113;
+ "#PrevLogin" = #T25-04-2017_12:40:26;
+ "#PrevLoginAddress" = "[192.168.99.1]";
+ "#StorageUsed" = 622;
+ INBOX = {BoxSeq=#1493112;Messages=#1;Oldest=#T25-04-2017_12:25:26;Size=#622;UIDNext=#2;UIDValidity=#373278124;Unseen=#0;};
+ testuser_calendar = {BoxSeq=#1493113;Class=IPF.Appointment;Messages=#0;Size=#0;UIDNext=#2;UIDValidity=#373281141;Unseen=#0;};
+}

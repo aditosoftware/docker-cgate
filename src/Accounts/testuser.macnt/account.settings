@@ -1,0 +1,7 @@
+{
+ FailedLoginFlow = ("-1",2m);
+ Password = xxxx;
+ UseAppPassword = YES;
+ WebAdminPrefs = {AdminSkinName=Admin-dash;DisplayCharset=utf-8;ExpertLevel=5;ServerSettings={};};
+}
+

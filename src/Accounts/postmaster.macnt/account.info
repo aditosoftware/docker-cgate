@@ -1,0 +1,13 @@
+{
+ "#Created" = "20-04-2017_13:48:37";
+ "#LastAddress" = "[192.168.99.1]";
+ "#LastLogin" = #T25-04-2017_12:23:29;
+ "#MailboxSeq" = #1492698;
+ "#OutgoingFlow" = 1-20170425122526;
+ "#PrevLogin" = #T20-04-2017_13:49:43;
+ "#PrevLoginAddress" = "[192.168.99.1]";
+ "#StorageUsed" = 950;
+ Drafts = {BoxSeq=#1492697;Messages=#1;Oldest=#T25-04-2017_12:24:00;Size=#369;UIDNext=#2;UIDValidity=#373280760;Unseen=#0;};
+ INBOX = {BoxSeq=#1492696;Messages=#0;Size=#0;UIDNext=#1;UIDValidity=#373174029;Unseen=#0;};
+ "Sent Items" = {BoxSeq=#1492698;FirstRecent=#1;Messages=#1;Oldest=#T25-04-2017_12:25:26;Size=#581;UIDNext=#2;UIDValidity=#373280781;Unseen=#0;};
+}

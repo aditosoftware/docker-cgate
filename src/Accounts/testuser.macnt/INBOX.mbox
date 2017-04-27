@@ -1,0 +1,16 @@
+From <>(______________-000000000001) 25-04-2017_12:25:26_
+Return-Path: <postmaster@192.168.99.100>
+Received: from [192.168.99.1] (account postmaster@192.168.99.100)
+  by 192.168.99.100 (CommuniGate Pro WEBUSER 6.1.15 _community_)
+  with HTTP id 10001 for testuser@192.168.99.100; Tue, 25 Apr 2017 12:25:26 +0000
+From: postmaster@192.168.99.100
+Subject: testmail3
+To: testuser@192.168.99.100
+X-Mailer: CommuniGate Pro WebUser v6.1.15
+Date: Tue, 25 Apr 2017 12:25:26 +0000
+Message-ID: <web-10009@192.168.99.100>
+MIME-Version: 1.0
+Content-Type: text/plain;charset=utf-8; format="flowed"
+Content-Transfer-Encoding: 8bit
+
+test
