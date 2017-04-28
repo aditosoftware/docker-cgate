@@ -1,9 +1,6 @@
 FROM runningman84/cgate:latest
 MAINTAINER a.mayr@adito.de
 
-ENV MAILSERVER_DOMAIN=192.168.99.100 \
-	MAILSERVER_HOSTNAME=192.168.99.100
-
 # copy tweaked admin account (postmaster/xxxx) and use the dash skin to prevent severe brain damage
 COPY ./src/Accounts/postmaster.macnt/ /var/CommuniGate/Accounts/postmaster.macnt/
 # copy testuser data

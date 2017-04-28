@@ -5,7 +5,7 @@
  ChronosLogLevel = 3;
  CrashRecovery = YES;
  DataSetsLogLevel = 2;
- DomainName = 192.168.99.100;
+ DomainName = REPLACEME;
  ExternalAUTH = {Enabled=NO;LogLevel=3;RestartPause=15s;};
  ExternalBalancer = {Enabled=NO;LogLevel=3;RestartPause=15s;};
  ExternalBanner = {Enabled=NO;LogLevel=3;RestartPause=15s;};
