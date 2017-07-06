@@ -18,7 +18,7 @@ docker pull aditosoftware/docker-cgate
 
 Run
 
-docker run --name <name> -d -P -p 8010:8010 -p 8100:8100 -p 25:25 -p 110:110 -p 143:143 aditosoftware/docker-cgate
+docker run --name <name> -d -P -p 8010:8010 -p 8100:8100 -p 25:25 -p 110:110 -p 143:143 adito/cgate
 
 Connect
 
